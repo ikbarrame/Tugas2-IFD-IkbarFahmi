@@ -6,6 +6,8 @@ class Faktorial{
 	System.out.println("=PROGRAM FAKTORIAL==");
 	System.out.println("=Ikbar Nur Muhammad=");
 	System.out.println("=====1127050071=====");
+	System.out.println("=Fahmi Ahmad Juhary=");
+	System.out.println("=====1127050052=====");
 	System.out.println("====================");
 	long limit;
 	long faktorial=1;
